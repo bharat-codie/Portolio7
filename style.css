@@ -9,7 +9,7 @@
     outline: none;
 }
 :root {
-    --bg-color: #151f28;
+    --bg-color: #899f28;
     --main-color: #00abf0;
     --text-color: #333;
     --second-text-color: #555;
@@ -466,4 +466,5 @@ body{
     opacity: 1;
     transform: translateX(-50%) scale(1);
     top: -1.8rem;
+
 }
