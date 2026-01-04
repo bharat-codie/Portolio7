@@ -9,7 +9,7 @@
     outline: none;
 }
 :root {
-    --bg-color: #899f28;
+    --bg-color: #494D5F;
     --main-color: #00abf0;
     --text-color: #333;
     --second-text-color: #555;
@@ -468,3 +468,4 @@ body{
     top: -1.8rem;
 
 }
+
